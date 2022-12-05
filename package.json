@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/island-xray-zkzjr.blank-lbb8u2tz",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve vAUKFg89dKlKwdzsFEid --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
