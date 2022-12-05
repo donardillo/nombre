@@ -1,5 +1,5 @@
 module.exports = {
-        source: ['sd-input/**/*.json'],
+        source: ['prueba/intento.json'],
         fileHeader: {
             autoGenerateFileHeader: () => {
                 resturn ['Donot edit diurectly, this file is real street shit nigga'];
